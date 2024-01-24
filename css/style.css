@@ -119,6 +119,9 @@ html {
 .nav-list-link:active {
   color: #3172b9;
 }
+.nav-list-link:hover {
+  color: #3172b9;
+}
 .nav-list-link .header-btn {
   margin-left: 40px;
 }
